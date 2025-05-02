@@ -1,12 +1,5 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header
-               &text=Hi%20there,%20I'm%20Rushikesh%20Narwade!&fontSize=40&fontAlignY=40
-               &animation=fadeIn&desc=👨‍💻%20Flutter+%26+MERN+Developer|AWS+Explorer
-               &descAlignY=60&descAlign=50" alt="Banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&height=45&lines=Building+with+Flutter+and+MERN;Diving+into+AWS+and+DSA;Open+Source+Enthusiast" alt="Type Animation"/>
 </p>
 
@@ -55,6 +48,12 @@
 
 ---
 
+## 💻 LeetCode Stats
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/rushikeshnarwade)
+</p>
+---
+
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:rushikeshnarwade53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,12 +62,6 @@
   <a href="https://rushikeshnarwade.com"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
-
-## 💻 LeetCode Stats
-<p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/rushikeshnarwade)
-</p>
 
 ---
 
