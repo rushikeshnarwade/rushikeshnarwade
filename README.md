@@ -33,7 +33,6 @@ Software Engineer with **3.5+ years** designing scalable, distributed backend sy
 | Project | Description |
 |---|---|
 | 🤖 [**ResolveIQ**](https://rushikeshnarwade.com/projects) | Agentic AI resolution engine for ServiceNow — LangGraph + pgvector RAG + Gemini 2.5 Flash. Cut enterprise MTTR by 30%. *Production at TCS · closed-source* |
-| 🌐 [**Portfolio**](https://github.com/rushikeshnarwade/portfolio) | This site — React + Vite + Firebase, Firestore-backed blog, react-markdown rendering. |
 | 🍽️ [**Concurrent Order Management**](https://rushikeshnarwade.com/projects) | Restaurant pilot — Firestore transactions for concurrent writes, role-based auth. |
 
 ---
