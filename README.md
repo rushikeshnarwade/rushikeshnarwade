@@ -18,10 +18,10 @@ Software Engineer with **3.5+ years** designing scalable, distributed backend sy
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,gcp,react,js,vite,tailwind,firebase,git" alt="Tech Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,gcp,react,js,vite,tailwind,firebase,git" alt="Tech Icons"/>
 </p>
 
-**Backend & AI:** Python · FastAPI · LangGraph · LangChain · RAG · pgvector · Pydantic · Async/Await
+**Backend & AI:** Python · FastAPI · Django · LangGraph · LangChain · RAG · pgvector · Pydantic · Async/Await
 **Data & Cloud:** PostgreSQL · Redis · MongoDB · GCP (Cloud Run, Pub/Sub, Functions) · Docker · AWS
 **Frontend:** JavaScript · React · Tailwind · Firebase
 **Foundations:** System Design · Distributed Systems · DSA · Microservices · CI/CD
